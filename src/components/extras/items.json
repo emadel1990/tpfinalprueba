@@ -1,0 +1,74 @@
+[
+    {
+        "id": "caja",
+        "label": "Caja",
+        "items": [
+            {
+                "id": "compra",
+                "label": "Compra"
+            },
+            {
+                "id": "venta",
+                "label": "Venta"
+            },
+            {
+                "id": "devoluciones",
+                "label": "Devoluciones"
+            }
+        ]
+    },
+    {
+        "id": "clientes",
+        "label": "Clientes",
+        "items": [
+            {
+                "id": "crearCliente",
+                "label": "Crear Cliente"
+            },
+            {
+                "id": "modificarCliente",
+                "label": "Modificar Cliente"
+            },
+            {
+                "id": "eliminarCliente",
+                "label": "Eliminar Cliente"
+            }
+        ]
+    },
+    {
+        "id": "proveedores",
+        "label": "Proveedores",
+        "items": [
+            {
+                "id": "crearProveedor",
+                "label": "Crear Proveedor"
+            },
+            {
+                "id": "modificarProveedor",
+                "label": "Modificar Proveedor"
+            },
+            {
+                "id": "eliminarProveedor",
+                "label": "Eliminar Proveedor"
+            }
+        ]
+    },
+    {
+        "id": "reparaciones",
+        "label": "Reparaciones",
+        "items": [
+            {
+                "id": "crearProveedor",
+                "label": "Crear Proveedor"
+            },
+            {
+                "id": "modificarProveedor",
+                "label": "Modificar Proveedor"
+            },
+            {
+                "id": "eliminarProveedor",
+                "label": "Eliminar Proveedor"
+            }
+        ]
+    }
+]
